@@ -22,7 +22,7 @@
 | POST   | /empresas                                 | Crear nueva empresa                                  |
 | POST   | /empresas/transferencias                  | Crear nueva transferencia para una empresa           |
 
-📮 Ejemplos de requests
+Ejemplos de requests
 
 Crear empresa (POST /empresas)
 
